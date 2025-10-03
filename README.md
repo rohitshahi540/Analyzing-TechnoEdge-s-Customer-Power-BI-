@@ -1,6 +1,7 @@
 **Analyzing TechnoEdge's Customer Power BI Dashboard**
 
 **Objectives**
+Explore TechnoEdge dataset on customers' banking details includes information on customer ID, name, gender, age, country, state, job classification, marital status, account type, date joined, balance, and loans taken.
 
 **Key Insights from Dashboard**
 
